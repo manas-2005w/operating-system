@@ -5,26 +5,38 @@ Getting familiar with basic Unix commands for handling files and directories eff
 Lab Manual 1:
 
 1. ls: List all files and directories in the current directory.
-<img width="1175" alt="1" src="https://github.com/sakshikore16/OperatingSystem/assets/142594806/05f62eb2-8322-431d-8747-cca05abe6809">
+<img width="1470" alt="Screenshot 2024-05-09 at 1 21 41 PM" src="https://github.com/manas-2005w/operating-system/assets/142775809/cad4b717-d885-4816-b0f0-9d5ebb1dcc62">
+
 2. cd: Change the current directory to a specified path.
-<img width="1175" alt="2" src="https://github.com/sakshikore16/OperatingSystem/assets/142594806/124ff30b-9cb7-4581-a989-a463acdd9c65">
+<img width="1470" alt="Screenshot 2024-05-09 at 1 22 36 PM" src="https://github.com/manas-2005w/operating-system/assets/142775809/b37ccf49-42c7-4df0-906a-d2e21f697e70">
+
 3. mkdir: Create a new directory with a given name.
-<img width="1058" alt="3" src="https://github.com/sakshikore16/OperatingSystem/assets/142594806/456aec16-5e7f-4cb9-9b1d-f6c264d175e4">
+<img width="720" alt="Screenshot 2024-05-09 at 1 26 26 PM" src="https://github.com/manas-2005w/operating-system/assets/142775809/b8d37690-01e8-4810-9da5-7ab7cbb37b1e">
+
 4. rmdir: Remove an empty directory.
-<img width="1130" alt="4" src="https://github.com/sakshikore16/OperatingSystem/assets/142594806/f5643bac-59e6-41e1-93bc-0e1aa2ea4740">
+<img width="756" alt="Screenshot 2024-05-09 at 1 26 52 PM" src="https://github.com/manas-2005w/operating-system/assets/142775809/71b6e8fa-c436-43b3-bb2e-20edfa91aca7">
+
 5. cp: Copy a file or directory from one location to another.
-<img width="1013" alt="5" src="https://github.com/sakshikore16/OperatingSystem/assets/142594806/5a3bd1b2-e8ba-46ae-8e23-7161815ac0f3">
+<img width="724" alt="Screenshot 2024-05-09 at 1 30 21 PM" src="https://github.com/manas-2005w/operating-system/assets/142775809/ffb777da-d3d5-4882-9621-2c44fdfda4a7">
+
 6. rm: Remove a file or directory.
-<img width="1031" alt="6" src="https://github.com/sakshikore16/OperatingSystem/assets/142594806/db19b1c2-7e25-4939-bc90-e8c1951d1d86">
+<img width="597" alt="Screenshot 2024-05-09 at 1 31 12 PM" src="https://github.com/manas-2005w/operating-system/assets/142775809/9e6e8ea2-7fe8-40d7-a4ad-b493aaeba5c4">
+
 7. mv: Move or rename a file or directory.
-<img width="1049" alt="7" src="https://github.com/sakshikore16/OperatingSystem/assets/142594806/19113afd-902f-4da0-8cfb-9b56bd3981e7">
+<img width="817" alt="Screenshot 2024-05-09 at 1 38 35 PM" src="https://github.com/manas-2005w/operating-system/assets/142775809/43867293-42d9-4658-9261-5ca4a5d1e41d">
+
 8. more: Display the contents of a file page by page.
-<img width="1022" alt="8" src="https://github.com/sakshikore16/OperatingSystem/assets/142594806/833ba0d0-0d8d-4264-9bb8-b85c2166f8f4">
+<img width="726" alt="Screenshot 2024-05-09 at 1 40 16 PM" src="https://github.com/manas-2005w/operating-system/assets/142775809/9c1e10ac-99a8-4d06-89d7-060ed94076c3">
+
 9. lpr: Print a file on a connected printer.
-<img width="1022" alt="9" src="https://github.com/sakshikore16/OperatingSystem/assets/142594806/5c9d0276-5ca8-4fcc-95d9-4cc4bcb9992b">
+<img width="677" alt="Screenshot 2024-05-09 at 1 40 48 PM" src="https://github.com/manas-2005w/operating-system/assets/142775809/e5c3962e-78d4-484e-af3a-8b8716812ba0">
+
 10. man: Display the manual pages for a specified command.
-<img width="1470" alt="10" src="https://github.com/sakshikore16/OperatingSystem/assets/142594806/df6bd0b0-4f61-42f7-9f8e-4801965bc546">
+<img width="1022" alt="Screenshot 2024-05-09 at 1 41 53 PM" src="https://github.com/manas-2005w/operating-system/assets/142775809/ea39c627-76b4-4b69-8237-f64704e8a39f">
+
 11. grep: Search for a specified pattern in one or more files.
-<img width="1040" alt="11" src="https://github.com/sakshikore16/OperatingSystem/assets/142594806/a8923e35-9862-4ba5-b115-2614b118a516">
+<img width="982" alt="Screenshot 2024-05-09 at 1 42 46 PM" src="https://github.com/manas-2005w/operating-system/assets/142775809/b26edf76-af0c-49f3-b9ac-ec47a8a83102">
+
 12. sed: Utilize a stream editor for filtering and transforming text.
-<img width="1013" alt="12" src="https://github.com/sakshikore16/OperatingSystem/assets/142594806/918b0621-144d-463b-a982-751c5efd45ca">
+<img width="918" alt="Screenshot 2024-05-09 at 1 45 23 PM" src="https://github.com/manas-2005w/operating-system/assets/142775809/30749e67-925d-4ab1-a501-6714cb9f1888">
+
